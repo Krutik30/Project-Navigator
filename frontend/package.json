@@ -1,0 +1,22 @@
+{
+  "name": "project-navigator",
+  "version": "1.0.0",
+  "description": "app for billing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krutik30/Project-Navigator.git"
+  },
+  "author": "Krutik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krutik30/Project-Navigator/issues"
+  },
+  "homepage": "https://github.com/Krutik30/Project-Navigator#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
